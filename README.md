@@ -4,18 +4,18 @@
 
 ## Let me introduce myself
 
-**Name : Yeo-Dong-Jin**<br>
-**Nationality : Incheon, South Korea**<br>
-**Email : pig000207@gmail.com**<br>
-**school : JEIU University**<br>
-**Major : AI Computer Information (AI컴퓨터정보과)**
+:bust_in_silhouette:**Name : Yeo-Dong-Jin**<br>
+:earth_asia:**Nationality : Incheon, South Korea**<br>
+:email:**Email : pig000207@gmail.com**<br>
+:mortar_board:**school : JEIU University**<br>
+:computer:**Major : AI Computer Information (AI컴퓨터정보과)**
 
 ***Project***<br>
 **2022 08 01 ~ ing : FaceCheck (Graduation work)**
 
 <div align="center">
 
-## 📚 MY STACKS
+## :star2: My Skills
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -30,13 +30,14 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-## 🌱 I'm learning to this!
+## :fire: I'm learning to this!
  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AW&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CNN-CC0000?style=flat-square&logo=CNN&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-##  Etc
+
+##  :bulb:Etc
 # <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2368EF69&title_bg=%23B163FF&icon=&icon_color=%23FFFFFF&title=Visitor&edge_flat=false"/></a>
 
 </div>
