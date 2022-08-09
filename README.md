@@ -1,9 +1,6 @@
-![header](https://capsule-render.vercel.app/api?text=Hello Developers&fontColor=ffffff&type=slice&color=_hexcode:#B897FF)
+![header](https://capsule-render.vercel.app/api?text=Hello Developers&fontColor=F2DD9D&type=Waving&color=70653F)
 
 
-
-
-# "Hello Developers"
 
 ## Let me introduce myself
 
