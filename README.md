@@ -10,7 +10,7 @@
 :mortar_board:**school : JEIU University**<br>
 :computer:**Major : AI Computer Information (AI컴퓨터정보과)**
 
-***urrent Project***<br>
+***Current Project***<br>
 **2022 08 01 ~ ing : FaceCheck (Graduation work)**
 
 <div align="center">
