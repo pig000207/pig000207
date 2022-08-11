@@ -11,7 +11,7 @@
 :computer:**Major : AI Computer Information (AI컴퓨터정보과)**
 
 ***Current Project***<br>
-**2022 08 01 ~ ing : FaceCheck (Graduation work)**
+**FaceCheck Project[2022 08 01 ~ ] **
 
 <div align="center">
 
